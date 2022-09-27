@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sam Gonzales</h1>
 <h3 align="center">I love to program, create and find solutions.</h3>
 
-- 🔭 I’m currently working on **Next Word Prediction**
+- 🔭 I’m currently working on **Building up my portfolio through small everyday programs.**
 
 - 🌱 I’m currently learning **Python, Java, Javascript, HTML**
 
